@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 3 problems · 0 labs · 0 math
+**4** solved · 3 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-20 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-20 | [solution](problems/0009-matrix-times-matrix) |
+
+## Math
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-20 | [solution](math/0012-inverse-and-rank) |
 
 ---
 
