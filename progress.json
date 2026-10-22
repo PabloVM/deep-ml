@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T15:27:17.111Z",
+  "generated_at": "2026-10-22T15:38:35.923Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -431,6 +431,19 @@
       "path": "math/0104-training-error-test-error-and-the-bayes-rate",
       "first_solved_at": "2026-10-22T15:27:16.158Z",
       "last_pushed_at": "2026-10-22T15:27:16.158Z"
+    },
+    "problem:1058": {
+      "kind": "problem",
+      "id": "1058",
+      "title": "Random Train/Validation/Test Split with Shuffling",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1058",
+      "path": "problems/1058-random-train-validation-test-split-with-shuffling",
+      "first_solved_at": "2026-10-22T15:38:34.947Z",
+      "last_pushed_at": "2026-10-22T15:38:34.947Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
