@@ -18,17 +18,9 @@ def train(X, y, W, b):
     # TODO: implement your training strategy here
     # You can use ANY approach: gradient descent, normal equation,
     # momentum, adaptive learning rates, mini-batching, etc.
-    lr = 0.01
-    n_iters = 2000
-    n = X.shape[0]
-    
-    for _ in range(n_iters):
-        y_pred = X @ W + b
-        residual = y_pred - y
-        w_gradient = (2/n) * X.T @ residual
-        b_gradient = (2/n) * np.sum(residual)
-        
-        W = W - w_gradient * lr
-        b = b - b_gradient * lr
+    ones = np.ones((X.shape[0], 1))
+    X_b = np.concatenate([ones, X], axis=1)
+    theta = np.linalg.lstsq(X_b, y, rcond=None)[0]
+    b, W = theta[0], theta[1:]
     
     return W,b
