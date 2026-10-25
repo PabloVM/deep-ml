@@ -5,6 +5,6 @@ def to_categorical(x, n_col=None):
 	unique_classes = max(len(np.unique(x)),n_col or 0)
 	one_hot = np.zeros((x.shape[0],unique_classes))
 	for i,element in enumerate(x):
-		one_hot[i][element] = 1
+		one_hot[i,element] = 1
 	
 	return one_hot.tolist()
