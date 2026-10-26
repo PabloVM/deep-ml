@@ -11,7 +11,7 @@ def feature_hash(features, n_features):
     Returns:
         list of length n_features.
     """
-    result = [0 for _ in range(n_features)]
+    result = [0.0 for _ in range(n_features)]
     for name,value in features.items():
         md5 = hashlib.md5(name.encode("utf-8"))
         h = md5.hexdigest()

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T15:10:18.605Z",
+  "generated_at": "2026-10-26T15:10:27.548Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -597,7 +597,7 @@
       "url": "https://www.deep-ml.com/problems/846",
       "path": "problems/0846-feature-hashing-trick-for-sparse-features",
       "first_solved_at": "2026-10-26T15:09:01.273Z",
-      "last_pushed_at": "2026-10-26T15:10:17.112Z",
+      "last_pushed_at": "2026-10-26T15:10:25.958Z",
       "language": "python",
       "lines": 22
     }
