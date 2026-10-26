@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**50** solved · 37 problems · 1 labs · 12 math
+**51** solved · 38 problems · 1 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-20 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-10-21 | [solution](problems/0334-cholesky-decomposition) |
+| [ColumnTransformer-Style Dispatcher](https://www.deep-ml.com/problems/845) | medium | 2026-10-26 | [solution](problems/0845-columntransformer-style-dispatcher) |
 | [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-10-26 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-21 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-10-26 | [solution](problems/0354-handle-missing-data-with-imputation) |
