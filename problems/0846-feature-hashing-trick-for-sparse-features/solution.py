@@ -17,6 +17,6 @@ def feature_hash(features, n_features):
         h = md5.hexdigest()
         idx = int(h[0:8],16) % n_features
         sign = 1 if int(h[8:16],16) % 2 == 0 else -1
-        result[idx] = sign * value
+        result[idx] += sign * value
     
     return result
