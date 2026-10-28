@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:59:33.782Z",
+  "generated_at": "2026-10-28T16:03:08.352Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1022,6 +1022,17 @@
       "path": "math/0109-what-goes-wrong-in-high-dimensions",
       "first_solved_at": "2026-10-28T15:59:30.110Z",
       "last_pushed_at": "2026-10-28T15:59:30.110Z"
+    },
+    "math:118": {
+      "kind": "math",
+      "id": "118",
+      "title": "Interpolation and Double Descent",
+      "difficulty": "hard",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/118",
+      "path": "math/0118-interpolation-and-double-descent",
+      "first_solved_at": "2026-10-28T16:03:06.927Z",
+      "last_pushed_at": "2026-10-28T16:03:06.927Z"
     }
   }
 }
