@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T16:33:03.934Z",
+  "generated_at": "2026-10-28T10:59:27.708Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -882,6 +882,17 @@
       "path": "math/0006-optimization-convexity-and-critical-points",
       "first_solved_at": "2026-10-27T16:33:02.987Z",
       "last_pushed_at": "2026-10-27T16:33:02.987Z"
+    },
+    "math:50": {
+      "kind": "math",
+      "id": "50",
+      "title": "Positive Definite Matrices and Quadratic Forms",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/50",
+      "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
+      "first_solved_at": "2026-10-28T10:59:26.443Z",
+      "last_pushed_at": "2026-10-28T10:59:26.443Z"
     }
   }
 }
