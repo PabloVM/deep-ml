@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**83** solved · 57 problems · 3 labs · 23 math
+**84** solved · 57 problems · 3 labs · 24 math
 
 ![Coverage](./coverage.svg)
 
@@ -105,6 +105,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [What Goes Wrong in High Dimensions](https://www.deep-ml.com/math-problems/109) | medium | 2026-10-28 | [solution](math/0109-what-goes-wrong-in-high-dimensions) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-10-28 | [solution](math/0118-interpolation-and-double-descent) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-10-21 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
+| [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-10-28 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
 
 ---
 
