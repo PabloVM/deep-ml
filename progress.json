@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:09:22.867Z",
+  "generated_at": "2026-10-28T15:15:41.590Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -956,6 +956,17 @@
       "path": "math/0031-regularization-and-generalization",
       "first_solved_at": "2026-10-28T15:09:21.689Z",
       "last_pushed_at": "2026-10-28T15:09:21.689Z"
+    },
+    "math:39": {
+      "kind": "math",
+      "id": "39",
+      "title": "Bias–Variance Decomposition",
+      "difficulty": "medium",
+      "category": "Machine Learning Fundamentals",
+      "url": "https://www.deep-ml.com/math-problems/39",
+      "path": "math/0039-bias-variance-decomposition",
+      "first_solved_at": "2026-10-28T15:15:40.250Z",
+      "last_pushed_at": "2026-10-28T15:15:40.250Z"
     }
   }
 }
