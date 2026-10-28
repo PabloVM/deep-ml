@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T16:30:26.895Z",
+  "generated_at": "2026-10-28T16:52:46.633Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1044,6 +1044,17 @@
       "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
       "first_solved_at": "2026-10-28T16:30:25.528Z",
       "last_pushed_at": "2026-10-28T16:30:25.528Z"
+    },
+    "math:26": {
+      "kind": "math",
+      "id": "26",
+      "title": "Maximum Likelihood and MAP",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/26",
+      "path": "math/0026-maximum-likelihood-and-map",
+      "first_solved_at": "2026-10-28T16:52:45.497Z",
+      "last_pushed_at": "2026-10-28T16:52:45.497Z"
     }
   }
 }
