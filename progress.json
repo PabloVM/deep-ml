@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T10:59:27.708Z",
+  "generated_at": "2026-10-28T11:38:26.237Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -893,6 +893,19 @@
       "path": "math/0050-positive-definite-matrices-and-quadratic-forms",
       "first_solved_at": "2026-10-28T10:59:26.443Z",
       "last_pushed_at": "2026-10-28T10:59:26.443Z"
+    },
+    "problem:218": {
+      "kind": "problem",
+      "id": "218",
+      "title": "Compute the Hessian Matrix",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/218",
+      "path": "problems/0218-compute-the-hessian-matrix",
+      "first_solved_at": "2026-10-28T11:38:24.165Z",
+      "last_pushed_at": "2026-10-28T11:38:24.165Z",
+      "language": "python",
+      "lines": 38
     }
   }
 }
