@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**99** solved · 70 problems · 3 labs · 26 math
+**100** solved · 70 problems · 3 labs · 27 math
 
 ![Coverage](./coverage.svg)
 
@@ -97,6 +97,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | --- | --- | --- | --- |
 | [Derivatives and Gradients](https://www.deep-ml.com/math-problems/1) | easy | 2026-10-20 | [solution](math/0001-derivatives-and-gradients) |
 | [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-10-22 | [solution](math/0018-descriptive-statistics) |
+| [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-10-29 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-10-20 | [solution](math/0005-gradient-descent-updates) |
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-10-22 | [solution](math/0030-ml-workflow-basics) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-10-28 | [solution](math/0043-model-selection-cv-aic-and-bic) |
