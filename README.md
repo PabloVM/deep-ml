@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**96** solved · 68 problems · 3 labs · 25 math
+**97** solved · 69 problems · 3 labs · 25 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,6 +47,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-10-28 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [ColumnTransformer-Style Dispatcher](https://www.deep-ml.com/problems/845) | medium | 2026-10-26 | [solution](problems/0845-columntransformer-style-dispatcher) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-10-28 | [solution](problems/0218-compute-the-hessian-matrix) |
+| [Cross-Validated Lambda and the One-Standard-Error Rule](https://www.deep-ml.com/problems/1417) | medium | 2026-10-29 | [solution](problems/1417-cross-validated-lambda-and-the-one-standard-error-rule) |
 | [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-10-27 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
 | [Detect Look-Ahead Bias in a Feature Pipeline](https://www.deep-ml.com/problems/1352) | medium | 2026-10-27 | [solution](problems/1352-detect-look-ahead-bias-in-a-feature-pipeline) |
 | [Detect Target Leakage in a Feature Matrix](https://www.deep-ml.com/problems/1359) | medium | 2026-10-27 | [solution](problems/1359-detect-target-leakage-in-a-feature-matrix) |

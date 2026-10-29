@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:54:05.256Z",
+  "generated_at": "2026-10-29T15:58:49.224Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1198,6 +1198,19 @@
       "last_pushed_at": "2026-10-29T12:54:04.546Z",
       "language": "python",
       "lines": 62
+    },
+    "problem:1417": {
+      "kind": "problem",
+      "id": "1417",
+      "title": "Cross-Validated Lambda and the One-Standard-Error Rule",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1417",
+      "path": "problems/1417-cross-validated-lambda-and-the-one-standard-error-rule",
+      "first_solved_at": "2026-10-29T15:58:48.546Z",
+      "last_pushed_at": "2026-10-29T15:58:48.546Z",
+      "language": "python",
+      "lines": 72
     }
   }
 }
