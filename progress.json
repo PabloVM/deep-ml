@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T11:44:25.813Z",
+  "generated_at": "2026-10-29T11:58:07.347Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1159,6 +1159,19 @@
       "last_pushed_at": "2026-10-29T11:44:25.044Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:841": {
+      "kind": "problem",
+      "id": "841",
+      "title": "Randomized Search for Hyperparameter Tuning",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/841",
+      "path": "problems/0841-randomized-search-for-hyperparameter-tuning",
+      "first_solved_at": "2026-10-29T11:58:06.688Z",
+      "last_pushed_at": "2026-10-29T11:58:06.688Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
