@@ -13,7 +13,6 @@ def bias_variance_decomp(predictions, y_true):
     """
     predictions = np.array(predictions)
     y_true = np.array(y_true)
-    B,M = predictions.shape
     m_pred = np.mean(predictions,axis=0)
     s_bias = np.mean((m_pred - y_true)**2)
     v = np.mean(np.mean((predictions - m_pred)**2,axis=0))
