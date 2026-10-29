@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T16:17:39.012Z",
+  "generated_at": "2026-10-29T16:19:37.406Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1259,6 +1259,17 @@
       "last_pushed_at": "2026-10-29T16:17:38.305Z",
       "language": "python",
       "lines": 14
+    },
+    "math:22": {
+      "kind": "math",
+      "id": "22",
+      "title": "Common Distributions II: Normal, Poisson, Exponential",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/22",
+      "path": "math/0022-common-distributions-ii-normal-poisson-exponential",
+      "first_solved_at": "2026-10-29T16:19:36.903Z",
+      "last_pushed_at": "2026-10-29T16:19:36.903Z"
     }
   }
 }
