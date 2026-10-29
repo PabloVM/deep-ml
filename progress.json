@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:58:49.224Z",
+  "generated_at": "2026-10-29T16:04:30.921Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1211,6 +1211,19 @@
       "last_pushed_at": "2026-10-29T15:58:48.546Z",
       "language": "python",
       "lines": 72
+    },
+    "problem:368": {
+      "kind": "problem",
+      "id": "368",
+      "title": "Calculate BIC/AIC for Model Selection",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/368",
+      "path": "problems/0368-calculate-bic-aic-for-model-selection",
+      "first_solved_at": "2026-10-29T16:04:30.174Z",
+      "last_pushed_at": "2026-10-29T16:04:30.174Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
