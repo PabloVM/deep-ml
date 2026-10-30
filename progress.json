@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:57:03.919Z",
+  "generated_at": "2026-10-30T14:58:25.516Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1410,6 +1410,17 @@
       "path": "math/0020-bayes-theorem",
       "first_solved_at": "2026-10-30T14:57:03.278Z",
       "last_pushed_at": "2026-10-30T14:57:03.278Z"
+    },
+    "math:28": {
+      "kind": "math",
+      "id": "28",
+      "title": "Bayesian Methods",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/28",
+      "path": "math/0028-bayesian-methods",
+      "first_solved_at": "2026-10-30T14:58:24.938Z",
+      "last_pushed_at": "2026-10-30T14:58:24.938Z"
     }
   }
 }
