@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**110** solved · 75 problems · 3 labs · 32 math
+**111** solved · 75 problems · 3 labs · 33 math
 
 ![Coverage](./coverage.svg)
 
@@ -112,6 +112,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [$C_p$, AIC, BIC, and Adjusted $R^2$](https://www.deep-ml.com/math-problems/93) | medium | 2026-10-28 | [solution](math/0093-c-p-aic-bic-and-adjusted-r-2) |
 | [Best Subset and Stepwise Selection](https://www.deep-ml.com/math-problems/107) | medium | 2026-10-28 | [solution](math/0107-best-subset-and-stepwise-selection) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-10-28 | [solution](math/0039-bias-variance-decomposition) |
+| [Coefficient Standard Errors, t-Statistics, and p-Values](https://www.deep-ml.com/math-problems/75) | medium | 2026-10-30 | [solution](math/0075-coefficient-standard-errors-t-statistics-and-p-values) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-10-29 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-20 | [solution](math/0012-inverse-and-rank) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-10-29 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
