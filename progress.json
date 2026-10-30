@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T11:56:42.141Z",
+  "generated_at": "2026-10-30T12:04:41.312Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1388,6 +1388,17 @@
       "path": "math/0076-rse-r-2-and-the-f-statistic-for-overall-significance",
       "first_solved_at": "2026-10-30T11:56:41.482Z",
       "last_pushed_at": "2026-10-30T11:56:41.482Z"
+    },
+    "math:77": {
+      "kind": "math",
+      "id": "77",
+      "title": "Confidence Intervals vs Prediction Intervals",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/77",
+      "path": "math/0077-confidence-intervals-vs-prediction-intervals",
+      "first_solved_at": "2026-10-30T12:04:40.692Z",
+      "last_pushed_at": "2026-10-30T12:04:40.692Z"
     }
   }
 }
