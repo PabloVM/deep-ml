@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T10:25:04.220Z",
+  "generated_at": "2026-10-30T10:33:22.120Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1292,6 +1292,17 @@
       "path": "math/0073-standard-error-and-the-sampling-distribution-of-an-estimator",
       "first_solved_at": "2026-10-30T10:25:03.621Z",
       "last_pushed_at": "2026-10-30T10:25:03.621Z"
+    },
+    "math:74": {
+      "kind": "math",
+      "id": "74",
+      "title": "Properties of Estimators: Bias, Consistency, Efficiency",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/74",
+      "path": "math/0074-properties-of-estimators-bias-consistency-efficiency",
+      "first_solved_at": "2026-10-30T10:33:21.411Z",
+      "last_pushed_at": "2026-10-30T10:33:21.411Z"
     }
   }
 }
