@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T10:33:22.120Z",
+  "generated_at": "2026-10-30T10:37:15.601Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1303,6 +1303,19 @@
       "path": "math/0074-properties-of-estimators-bias-consistency-efficiency",
       "first_solved_at": "2026-10-30T10:33:21.411Z",
       "last_pushed_at": "2026-10-30T10:33:21.411Z"
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-10-30T10:37:14.928Z",
+      "last_pushed_at": "2026-10-30T10:37:14.928Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
