@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**126** solved · 83 problems · 3 labs · 40 math
+**127** solved · 84 problems · 3 labs · 40 math
 
 ![Coverage](./coverage.svg)
 
@@ -42,6 +42,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Smooth L1 Loss with a Beta Parameter](https://www.deep-ml.com/problems/1372) | easy | 2026-10-27 | [solution](problems/1372-smooth-l1-loss-with-a-beta-parameter) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-02 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-11-02 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
+| [Tensor Puzzle: Outer Product via Broadcasting](https://www.deep-ml.com/problems/1270) | easy | 2026-11-02 | [solution](problems/1270-tensor-puzzle-outer-product-via-broadcasting) |
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-11-02 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-27 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
