@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T16:29:04.155Z",
+  "generated_at": "2026-11-02T16:30:59.942Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1530,6 +1530,19 @@
       "path": "problems/0023-softmax-activation-function-implementation",
       "first_solved_at": "2026-11-02T16:29:02.629Z",
       "last_pushed_at": "2026-11-02T16:29:02.629Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:1268": {
+      "kind": "problem",
+      "id": "1268",
+      "title": "Tensor Puzzle: Ones Vector from First Principles",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1268",
+      "path": "problems/1268-tensor-puzzle-ones-vector-from-first-principles",
+      "first_solved_at": "2026-11-02T16:30:58.426Z",
+      "last_pushed_at": "2026-11-02T16:30:58.426Z",
       "language": "python",
       "lines": 6
     }
