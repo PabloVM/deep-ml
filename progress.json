@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T15:34:14.090Z",
+  "generated_at": "2026-11-02T15:44:30.751Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1478,6 +1478,19 @@
       "path": "problems/1361-rse-r-squared-and-the-f-statistic",
       "first_solved_at": "2026-11-02T15:34:12.291Z",
       "last_pushed_at": "2026-11-02T15:34:12.291Z",
+      "language": "python",
+      "lines": 28
+    },
+    "problem:1362": {
+      "kind": "problem",
+      "id": "1362",
+      "title": "Confidence Intervals versus Prediction Intervals",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1362",
+      "path": "problems/1362-confidence-intervals-versus-prediction-intervals",
+      "first_solved_at": "2026-11-02T15:44:29.340Z",
+      "last_pushed_at": "2026-11-02T15:44:29.340Z",
       "language": "python",
       "lines": 28
     }
