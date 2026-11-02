@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T14:58:25.516Z",
+  "generated_at": "2026-11-02T14:48:02.638Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1421,6 +1421,17 @@
       "path": "math/0028-bayesian-methods",
       "first_solved_at": "2026-10-30T14:58:24.938Z",
       "last_pushed_at": "2026-10-30T14:58:24.938Z"
+    },
+    "math:78": {
+      "kind": "math",
+      "id": "78",
+      "title": "Leverage, Outliers, and Cook's Distance",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/78",
+      "path": "math/0078-leverage-outliers-and-cook-s-distance",
+      "first_solved_at": "2026-11-02T14:48:01.053Z",
+      "last_pushed_at": "2026-11-02T14:48:01.053Z"
     }
   }
 }
