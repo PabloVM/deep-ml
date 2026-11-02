@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T14:59:31.480Z",
+  "generated_at": "2026-11-02T15:21:56.102Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1454,6 +1454,19 @@
       "path": "math/0105-qualitative-predictors-dummy-coding-and-interactions",
       "first_solved_at": "2026-11-02T14:59:29.998Z",
       "last_pushed_at": "2026-11-02T14:59:29.998Z"
+    },
+    "problem:1360": {
+      "kind": "problem",
+      "id": "1360",
+      "title": "Coefficient Standard Errors, t-Statistics and p-Values",
+      "difficulty": "hard",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1360",
+      "path": "problems/1360-coefficient-standard-errors-t-statistics-and-p-values",
+      "first_solved_at": "2026-11-02T15:21:54.615Z",
+      "last_pushed_at": "2026-11-02T15:21:54.615Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
