@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**123** solved · 80 problems · 3 labs · 40 math
+**124** solved · 81 problems · 3 labs · 40 math
 
 ![Coverage](./coverage.svg)
 
@@ -40,6 +40,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-10-30 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-10-25 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Smooth L1 Loss with a Beta Parameter](https://www.deep-ml.com/problems/1372) | easy | 2026-10-27 | [solution](problems/1372-smooth-l1-loss-with-a-beta-parameter) |
+| [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-02 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-27 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-10-29 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
