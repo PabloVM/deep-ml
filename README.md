@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**127** solved · 84 problems · 3 labs · 40 math
+**128** solved · 85 problems · 3 labs · 40 math
 
 ![Coverage](./coverage.svg)
 
@@ -41,6 +41,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-10-25 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Smooth L1 Loss with a Beta Parameter](https://www.deep-ml.com/problems/1372) | easy | 2026-10-27 | [solution](problems/1372-smooth-l1-loss-with-a-beta-parameter) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-02 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Tensor Puzzle: Extract the Diagonal](https://www.deep-ml.com/problems/1271) | easy | 2026-11-02 | [solution](problems/1271-tensor-puzzle-extract-the-diagonal) |
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-11-02 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
 | [Tensor Puzzle: Outer Product via Broadcasting](https://www.deep-ml.com/problems/1270) | easy | 2026-11-02 | [solution](problems/1270-tensor-puzzle-outer-product-via-broadcasting) |
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-11-02 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
