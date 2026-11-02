@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**116** solved · 75 problems · 3 labs · 38 math
+**117** solved · 75 problems · 3 labs · 39 math
 
 ![Coverage](./coverage.svg)
 
@@ -122,6 +122,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Least Squares as Maximum Likelihood under Gaussian Noise](https://www.deep-ml.com/math-problems/156) | medium | 2026-10-30 | [solution](math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise) |
 | [Leverage, Outliers, and Cook's Distance](https://www.deep-ml.com/math-problems/78) | medium | 2026-11-02 | [solution](math/0078-leverage-outliers-and-cook-s-distance) |
 | [LOOCV vs $k$-Fold: the Bias-Variance of $k$](https://www.deep-ml.com/math-problems/80) | medium | 2026-10-28 | [solution](math/0080-loocv-vs-k-fold-the-bias-variance-of-k) |
+| [Multicollinearity and the Variance Inflation Factor](https://www.deep-ml.com/math-problems/79) | medium | 2026-11-02 | [solution](math/0079-multicollinearity-and-the-variance-inflation-factor) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-20 | [solution](math/0002-multivariate-calculus) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-27 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-20 | [solution](math/0014-orthogonality-and-projections) |

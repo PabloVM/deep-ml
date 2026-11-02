@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T14:48:02.638Z",
+  "generated_at": "2026-11-02T14:54:16.658Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1432,6 +1432,17 @@
       "path": "math/0078-leverage-outliers-and-cook-s-distance",
       "first_solved_at": "2026-11-02T14:48:01.053Z",
       "last_pushed_at": "2026-11-02T14:48:01.053Z"
+    },
+    "math:79": {
+      "kind": "math",
+      "id": "79",
+      "title": "Multicollinearity and the Variance Inflation Factor",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/79",
+      "path": "math/0079-multicollinearity-and-the-variance-inflation-factor",
+      "first_solved_at": "2026-11-02T14:54:15.157Z",
+      "last_pushed_at": "2026-11-02T14:54:15.157Z"
     }
   }
 }
