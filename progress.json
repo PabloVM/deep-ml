@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:05:30.546Z",
+  "generated_at": "2026-11-03T16:14:33.899Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1899,6 +1899,19 @@
       "last_pushed_at": "2026-11-03T16:05:28.838Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:128": {
+      "kind": "problem",
+      "id": "128",
+      "title": "Dynamic Tanh: Normalization-Free Transformer Activation",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/128",
+      "path": "problems/0128-dynamic-tanh-normalization-free-transformer-activation",
+      "first_solved_at": "2026-11-03T16:14:32.371Z",
+      "last_pushed_at": "2026-11-03T16:14:32.371Z",
+      "language": "python",
+      "lines": 5
     }
   }
 }
