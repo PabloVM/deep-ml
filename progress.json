@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T15:04:02.347Z",
+  "generated_at": "2026-11-03T15:14:25.843Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1704,6 +1704,19 @@
       "path": "math/0469-xor-with-threshold-units-and-why-linear-layers-collapse",
       "first_solved_at": "2026-11-03T15:04:00.759Z",
       "last_pushed_at": "2026-11-03T15:04:00.759Z"
+    },
+    "problem:24": {
+      "kind": "problem",
+      "id": "24",
+      "title": "Single Neuron",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/24",
+      "path": "problems/0024-single-neuron",
+      "first_solved_at": "2026-11-03T15:14:24.124Z",
+      "last_pushed_at": "2026-11-03T15:14:24.124Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
