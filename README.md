@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**128** solved · 85 problems · 3 labs · 40 math
+**129** solved · 85 problems · 3 labs · 41 math
 
 ![Coverage](./coverage.svg)
 
@@ -141,6 +141,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-28 | [solution](math/0031-regularization-and-generalization) |
 | [RSE, $R^2$, and the F-Statistic for Overall Significance](https://www.deep-ml.com/math-problems/76) | medium | 2026-10-30 | [solution](math/0076-rse-r-2-and-the-f-statistic-for-overall-significance) |
 | [Solving Linear Systems](https://www.deep-ml.com/math-problems/13) | medium | 2026-10-21 | [solution](math/0013-solving-linear-systems) |
+| [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-11-03 | [solution](math/0027-statistical-inference) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-10-22 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-27 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [What Goes Wrong in High Dimensions](https://www.deep-ml.com/math-problems/109) | medium | 2026-10-28 | [solution](math/0109-what-goes-wrong-in-high-dimensions) |
