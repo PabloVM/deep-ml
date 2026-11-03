@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T10:10:27.402Z",
+  "generated_at": "2026-11-03T10:22:56.689Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1643,6 +1643,19 @@
       "last_pushed_at": "2026-11-03T10:10:25.771Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:339": {
+      "kind": "problem",
+      "id": "339",
+      "title": "Beta Distribution PDF and Statistics",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/339",
+      "path": "problems/0339-beta-distribution-pdf-and-statistics",
+      "first_solved_at": "2026-11-03T10:22:55.031Z",
+      "last_pushed_at": "2026-11-03T10:22:55.031Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
