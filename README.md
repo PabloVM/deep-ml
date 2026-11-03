@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**132** solved · 86 problems · 3 labs · 43 math
+**133** solved · 87 problems · 3 labs · 43 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Classify Critical Points Using Hessian Eigenvalues](https://www.deep-ml.com/problems/311) | medium | 2026-10-28 | [solution](problems/0311-classify-critical-points-using-hessian-eigenvalues) |
 | [ColumnTransformer-Style Dispatcher](https://www.deep-ml.com/problems/845) | medium | 2026-10-26 | [solution](problems/0845-columntransformer-style-dispatcher) |
 | [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-10-28 | [solution](problems/0218-compute-the-hessian-matrix) |
+| [Conditional Probability from Joint Distribution](https://www.deep-ml.com/problems/180) | medium | 2026-11-03 | [solution](problems/0180-conditional-probability-from-joint-distribution) |
 | [Confidence Intervals versus Prediction Intervals](https://www.deep-ml.com/problems/1362) | medium | 2026-11-02 | [solution](problems/1362-confidence-intervals-versus-prediction-intervals) |
 | [Cross-Validated Lambda and the One-Standard-Error Rule](https://www.deep-ml.com/problems/1417) | medium | 2026-10-29 | [solution](problems/1417-cross-validated-lambda-and-the-one-standard-error-rule) |
 | [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-10-27 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
