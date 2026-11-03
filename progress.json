@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T09:33:27.682Z",
+  "generated_at": "2026-11-03T10:02:07.738Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1606,6 +1606,17 @@
       "path": "math/0089-credible-intervals-vs-confidence-intervals",
       "first_solved_at": "2026-11-03T09:33:26.086Z",
       "last_pushed_at": "2026-11-03T09:33:26.086Z"
+    },
+    "math:356": {
+      "kind": "math",
+      "id": "356",
+      "title": "Monty Hall by Bayes' Rule: The Host's Likelihood Decides",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/356",
+      "path": "math/0356-monty-hall-by-bayes-rule-the-host-s-likelihood-decides",
+      "first_solved_at": "2026-11-03T10:02:06.086Z",
+      "last_pushed_at": "2026-11-03T10:02:06.086Z"
     }
   }
 }
