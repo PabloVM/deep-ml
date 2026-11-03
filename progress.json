@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T09:21:41.793Z",
+  "generated_at": "2026-11-03T09:33:27.682Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1595,6 +1595,17 @@
       "path": "math/0027-statistical-inference",
       "first_solved_at": "2026-11-03T09:21:40.188Z",
       "last_pushed_at": "2026-11-03T09:21:40.188Z"
+    },
+    "math:89": {
+      "kind": "math",
+      "id": "89",
+      "title": "Credible Intervals vs Confidence Intervals",
+      "difficulty": "medium",
+      "category": "Statistical Inference",
+      "url": "https://www.deep-ml.com/math-problems/89",
+      "path": "math/0089-credible-intervals-vs-confidence-intervals",
+      "first_solved_at": "2026-11-03T09:33:26.086Z",
+      "last_pushed_at": "2026-11-03T09:33:26.086Z"
     }
   }
 }
