@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T14:58:32.752Z",
+  "generated_at": "2026-11-03T15:04:02.347Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1693,6 +1693,17 @@
       "path": "math/0277-what-the-bias-term-buys-affine-maps-the-bias-gradient-and-when-it-is-redundant",
       "first_solved_at": "2026-11-03T14:58:31.063Z",
       "last_pushed_at": "2026-11-03T14:58:31.063Z"
+    },
+    "math:469": {
+      "kind": "math",
+      "id": "469",
+      "title": "XOR with Threshold Units, and Why Linear Layers Collapse",
+      "difficulty": "easy",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/469",
+      "path": "math/0469-xor-with-threshold-units-and-why-linear-layers-collapse",
+      "first_solved_at": "2026-11-03T15:04:00.759Z",
+      "last_pushed_at": "2026-11-03T15:04:00.759Z"
     }
   }
 }
