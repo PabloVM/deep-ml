@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T16:14:37.352Z",
+  "generated_at": "2026-11-04T16:26:14.531Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1997,6 +1997,17 @@
       "path": "math/0035-matrix-calculus-identities",
       "first_solved_at": "2026-11-04T16:14:36.673Z",
       "last_pushed_at": "2026-11-04T16:14:36.673Z"
+    },
+    "math:471": {
+      "kind": "math",
+      "id": "471",
+      "title": "Backprop for a One-Hidden-Layer ReLU Softmax MLP in Matrix Form",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/471",
+      "path": "math/0471-backprop-for-a-one-hidden-layer-relu-softmax-mlp-in-matrix-form",
+      "first_solved_at": "2026-11-04T16:26:13.840Z",
+      "last_pushed_at": "2026-11-04T16:26:13.840Z"
     }
   }
 }
