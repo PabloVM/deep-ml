@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**160** solved · 110 problems · 3 labs · 47 math
+**161** solved · 110 problems · 3 labs · 48 math
 
 ![Coverage](./coverage.svg)
 
@@ -161,6 +161,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Least Squares as Maximum Likelihood under Gaussian Noise](https://www.deep-ml.com/math-problems/156) | medium | 2026-10-30 | [solution](math/0156-least-squares-as-maximum-likelihood-under-gaussian-noise) |
 | [Leverage, Outliers, and Cook's Distance](https://www.deep-ml.com/math-problems/78) | medium | 2026-11-02 | [solution](math/0078-leverage-outliers-and-cook-s-distance) |
 | [LOOCV vs $k$-Fold: the Bias-Variance of $k$](https://www.deep-ml.com/math-problems/80) | medium | 2026-10-28 | [solution](math/0080-loocv-vs-k-fold-the-bias-variance-of-k) |
+| [Matrix Calculus Identities](https://www.deep-ml.com/math-problems/35) | medium | 2026-11-04 | [solution](math/0035-matrix-calculus-identities) |
 | [Monty Hall by Bayes' Rule: The Host's Likelihood Decides](https://www.deep-ml.com/math-problems/356) | medium | 2026-11-03 | [solution](math/0356-monty-hall-by-bayes-rule-the-host-s-likelihood-decides) |
 | [Multicollinearity and the Variance Inflation Factor](https://www.deep-ml.com/math-problems/79) | medium | 2026-11-02 | [solution](math/0079-multicollinearity-and-the-variance-inflation-factor) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-20 | [solution](math/0002-multivariate-calculus) |
