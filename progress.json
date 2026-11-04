@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T11:53:57.004Z",
+  "generated_at": "2026-11-04T15:28:19.089Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -1951,6 +1951,19 @@
       "last_pushed_at": "2026-11-04T11:53:56.354Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:1836": {
+      "kind": "problem",
+      "id": "1836",
+      "title": "RBF Network: Design Matrix, Bandwidth, and XOR",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1836",
+      "path": "problems/1836-rbf-network-design-matrix-bandwidth-and-xor",
+      "first_solved_at": "2026-11-04T15:28:18.272Z",
+      "last_pushed_at": "2026-11-04T15:28:18.272Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }

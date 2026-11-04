@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**157** solved · 109 problems · 3 labs · 45 math
+**158** solved · 110 problems · 3 labs · 45 math
 
 ![Coverage](./coverage.svg)
 
@@ -114,6 +114,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-10-26 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Partial Derivatives of Multivariable Functions](https://www.deep-ml.com/problems/215) | medium | 2026-10-20 | [solution](problems/0215-partial-derivatives-of-multivariable-functions) |
 | [Randomized Search for Hyperparameter Tuning](https://www.deep-ml.com/problems/841) | medium | 2026-10-29 | [solution](problems/0841-randomized-search-for-hyperparameter-tuning) |
+| [RBF Network: Design Matrix, Bandwidth, and XOR](https://www.deep-ml.com/problems/1836) | medium | 2026-11-04 | [solution](problems/1836-rbf-network-design-matrix-bandwidth-and-xor) |
 | [RSE, R-Squared and the F-Statistic](https://www.deep-ml.com/problems/1361) | medium | 2026-11-02 | [solution](problems/1361-rse-r-squared-and-the-f-statistic) |
 | [StandardScaler Fit and Transform](https://www.deep-ml.com/problems/842) | medium | 2026-10-25 | [solution](problems/0842-standardscaler-fit-and-transform) |
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-20 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
