@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**155** solved · 107 problems · 3 labs · 45 math
+**156** solved · 108 problems · 3 labs · 45 math
 
 ![Coverage](./coverage.svg)
 
@@ -62,6 +62,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Tensor Puzzle: Ones Vector from First Principles](https://www.deep-ml.com/problems/1268) | easy | 2026-11-02 | [solution](problems/1268-tensor-puzzle-ones-vector-from-first-principles) |
 | [Tensor Puzzle: Outer Product via Broadcasting](https://www.deep-ml.com/problems/1270) | easy | 2026-11-02 | [solution](problems/1270-tensor-puzzle-outer-product-via-broadcasting) |
 | [Tensor Puzzle: Sum a Vector with a Dot Product](https://www.deep-ml.com/problems/1269) | easy | 2026-11-02 | [solution](problems/1269-tensor-puzzle-sum-a-vector-with-a-dot-product) |
+| [Thanksgiving Feast Predictor: Softmax for Dish Selection](https://www.deep-ml.com/problems/216) | easy | 2026-11-04 | [solution](problems/0216-thanksgiving-feast-predictor-softmax-for-dish-selection) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-10-20 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-10-27 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [Bayesian Inference for Beta-Binomial Model](https://www.deep-ml.com/problems/213) | medium | 2026-11-03 | [solution](problems/0213-bayesian-inference-for-beta-binomial-model) |
