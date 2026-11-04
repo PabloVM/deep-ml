@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**159** solved · 110 problems · 3 labs · 46 math
+**160** solved · 110 problems · 3 labs · 47 math
 
 ![Coverage](./coverage.svg)
 
@@ -147,6 +147,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Why Minibatches: Gradient Variance vs Batch Size](https://www.deep-ml.com/math-problems/130) | easy | 2026-10-20 | [solution](math/0130-why-minibatches-gradient-variance-vs-batch-size) |
 | [XOR with Threshold Units, and Why Linear Layers Collapse](https://www.deep-ml.com/math-problems/469) | easy | 2026-11-03 | [solution](math/0469-xor-with-threshold-units-and-why-linear-layers-collapse) |
 | [$C_p$, AIC, BIC, and Adjusted $R^2$](https://www.deep-ml.com/math-problems/93) | medium | 2026-10-28 | [solution](math/0093-c-p-aic-bic-and-adjusted-r-2) |
+| [Backpropagation and the Chain Rule](https://www.deep-ml.com/math-problems/4) | medium | 2026-11-04 | [solution](math/0004-backpropagation-and-the-chain-rule) |
 | [Bayes' Theorem](https://www.deep-ml.com/math-problems/20) | medium | 2026-10-30 | [solution](math/0020-bayes-theorem) |
 | [Best Subset and Stepwise Selection](https://www.deep-ml.com/math-problems/107) | medium | 2026-10-28 | [solution](math/0107-best-subset-and-stepwise-selection) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-10-28 | [solution](math/0039-bias-variance-decomposition) |
