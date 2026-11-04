@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**158** solved · 110 problems · 3 labs · 45 math
+**159** solved · 110 problems · 3 labs · 46 math
 
 ![Coverage](./coverage.svg)
 
@@ -163,6 +163,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Monty Hall by Bayes' Rule: The Host's Likelihood Decides](https://www.deep-ml.com/math-problems/356) | medium | 2026-11-03 | [solution](math/0356-monty-hall-by-bayes-rule-the-host-s-likelihood-decides) |
 | [Multicollinearity and the Variance Inflation Factor](https://www.deep-ml.com/math-problems/79) | medium | 2026-11-02 | [solution](math/0079-multicollinearity-and-the-variance-inflation-factor) |
 | [Multivariate Calculus](https://www.deep-ml.com/math-problems/2) | medium | 2026-10-20 | [solution](math/0002-multivariate-calculus) |
+| [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-11-04 | [solution](math/0003-neural-network-derivatives) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-27 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-20 | [solution](math/0014-orthogonality-and-projections) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-28 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
