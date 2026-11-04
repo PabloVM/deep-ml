@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**162** solved · 110 problems · 3 labs · 49 math
+**163** solved · 110 problems · 3 labs · 50 math
 
 ![Coverage](./coverage.svg)
 
@@ -156,6 +156,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-10-29 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Confidence Intervals vs Prediction Intervals](https://www.deep-ml.com/math-problems/77) | medium | 2026-10-30 | [solution](math/0077-confidence-intervals-vs-prediction-intervals) |
 | [Credible Intervals vs Confidence Intervals](https://www.deep-ml.com/math-problems/89) | medium | 2026-11-03 | [solution](math/0089-credible-intervals-vs-confidence-intervals) |
+| [Forward Mode versus Reverse Mode: What a Jacobian Costs](https://www.deep-ml.com/math-problems/470) | medium | 2026-11-04 | [solution](math/0470-forward-mode-versus-reverse-mode-what-a-jacobian-costs) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-10-20 | [solution](math/0012-inverse-and-rank) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-10-29 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
 | [Least Squares and the Normal Equations](https://www.deep-ml.com/math-problems/34) | medium | 2026-10-20 | [solution](math/0034-least-squares-and-the-normal-equations) |
