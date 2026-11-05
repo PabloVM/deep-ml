@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T10:43:25.367Z",
+  "generated_at": "2026-11-05T11:36:28.408Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2032,6 +2032,19 @@
       "last_pushed_at": "2026-11-05T10:43:24.239Z",
       "language": "python",
       "lines": 22
+    },
+    "problem:1835": {
+      "kind": "problem",
+      "id": "1835",
+      "title": "Jacobians by Forward Mode and by Reverse Mode",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1835",
+      "path": "problems/1835-jacobians-by-forward-mode-and-by-reverse-mode",
+      "first_solved_at": "2026-11-05T11:36:26.972Z",
+      "last_pushed_at": "2026-11-05T11:36:26.972Z",
+      "language": "python",
+      "lines": 80
     }
   }
 }
