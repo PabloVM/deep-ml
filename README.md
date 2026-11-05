@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**163** solved · 110 problems · 3 labs · 50 math
+**164** solved · 111 problems · 3 labs · 50 math
 
 ![Coverage](./coverage.svg)
 
@@ -98,6 +98,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Stratified K-Fold Cross-Validation](https://www.deep-ml.com/problems/840) | medium | 2026-10-25 | [solution](problems/0840-implement-stratified-k-fold-cross-validation) |
 | [Implement Stratified Train-Test Split](https://www.deep-ml.com/problems/275) | medium | 2026-10-23 | [solution](problems/0275-implement-stratified-train-test-split) |
 | [Implement the Huber Loss Function](https://www.deep-ml.com/problems/192) | medium | 2026-10-27 | [solution](problems/0192-implement-the-huber-loss-function) |
+| [Jacobian Matrix Calculation](https://www.deep-ml.com/problems/202) | medium | 2026-11-05 | [solution](problems/0202-jacobian-matrix-calculation) |
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-10-28 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-10-27 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-20 | [solution](problems/0092-linear-regression-power-grid-optimization) |

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T16:37:08.673Z",
+  "generated_at": "2026-11-05T10:43:01.687Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2019,6 +2019,19 @@
       "path": "math/0470-forward-mode-versus-reverse-mode-what-a-jacobian-costs",
       "first_solved_at": "2026-11-04T16:37:07.812Z",
       "last_pushed_at": "2026-11-04T16:37:07.812Z"
+    },
+    "problem:202": {
+      "kind": "problem",
+      "id": "202",
+      "title": "Jacobian Matrix Calculation",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/202",
+      "path": "problems/0202-jacobian-matrix-calculation",
+      "first_solved_at": "2026-11-05T10:43:00.308Z",
+      "last_pushed_at": "2026-11-05T10:43:00.308Z",
+      "language": "python",
+      "lines": 22
     }
   }
 }
