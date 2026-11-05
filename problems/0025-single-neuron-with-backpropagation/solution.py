@@ -14,8 +14,9 @@ def train_neuron(features: np.ndarray, labels: np.ndarray, initial_weights: np.n
 		s = sigmoid(z)
 		mse_values.append(np.mean((s-labels)**2))
 
-		w_grad = (2/n) * (((s - labels) * (s * (1-s))) @ features)
-		b_grad = (2/n) * np.sum((s - labels) * (s * (1-s)))
+		res = (s - labels) * (s * (1-s))
+		w_grad = (2/n) * (res @ features)
+		b_grad = (2/n) * np.sum(res)
 
 		W -= learning_rate * w_grad
 		b -= learning_rate * b_grad
