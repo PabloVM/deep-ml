@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T13:48:51.120Z",
+  "generated_at": "2026-11-06T15:16:32.306Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2123,6 +2123,19 @@
       "last_pushed_at": "2026-11-06T13:48:50.516Z",
       "language": "python",
       "lines": 47
+    },
+    "problem:999": {
+      "kind": "problem",
+      "id": "999",
+      "title": "Backward Pass of Tanh Using Cached Output",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/999",
+      "path": "problems/0999-backward-pass-of-tanh-using-cached-output",
+      "first_solved_at": "2026-11-06T15:16:31.555Z",
+      "last_pushed_at": "2026-11-06T15:16:31.555Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
