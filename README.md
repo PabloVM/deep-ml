@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**172** solved · 119 problems · 3 labs · 50 math
+**173** solved · 120 problems · 3 labs · 50 math
 
 ![Coverage](./coverage.svg)
 
@@ -55,6 +55,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-25 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Random Shuffle of Dataset](https://www.deep-ml.com/problems/29) | easy | 2026-10-22 | [solution](problems/0029-random-shuffle-of-dataset) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-22 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
+| [Reduce Gradient Across Broadcasted Dimensions](https://www.deep-ml.com/problems/998) | easy | 2026-11-06 | [solution](problems/0998-reduce-gradient-across-broadcasted-dimensions) |
 | [Sampling Distribution of the Mean](https://www.deep-ml.com/problems/181) | easy | 2026-10-30 | [solution](problems/0181-sampling-distribution-of-the-mean) |
 | [Shift and Scale Array to Target Range](https://www.deep-ml.com/problems/141) | easy | 2026-10-25 | [solution](problems/0141-shift-and-scale-array-to-target-range) |
 | [Single Neuron](https://www.deep-ml.com/problems/24) | easy | 2026-11-03 | [solution](problems/0024-single-neuron) |
