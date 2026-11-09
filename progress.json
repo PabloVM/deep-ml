@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T15:17:07.203Z",
+  "generated_at": "2026-11-09T12:18:38.720Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2149,6 +2149,19 @@
       "last_pushed_at": "2026-11-06T15:17:06.534Z",
       "language": "python",
       "lines": 17
+    },
+    "problem:1000": {
+      "kind": "problem",
+      "id": "1000",
+      "title": "Backward Pass of Tensor Reshape",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1000",
+      "path": "problems/1000-backward-pass-of-tensor-reshape",
+      "first_solved_at": "2026-11-09T12:18:31.839Z",
+      "last_pushed_at": "2026-11-09T12:18:31.839Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
