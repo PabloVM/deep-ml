@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:26:08.207Z",
+  "generated_at": "2026-11-15T10:35:47.856Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2210,6 +2210,17 @@
       "path": "math/0129-perceptron-convergence-bound",
       "first_solved_at": "2026-11-15T10:26:07.626Z",
       "last_pushed_at": "2026-11-15T10:26:07.626Z"
+    },
+    "math:622": {
+      "kind": "math",
+      "id": "622",
+      "title": "Why Constant Initialization Fails: Symmetric Hidden Units Get Identical Gradients",
+      "difficulty": "easy",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/622",
+      "path": "math/0622-why-constant-initialization-fails-symmetric-hidden-units-get-identical-gradients",
+      "first_solved_at": "2026-11-15T10:35:47.343Z",
+      "last_pushed_at": "2026-11-15T10:35:47.343Z"
     }
   }
 }
