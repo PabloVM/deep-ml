@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:35:47.856Z",
+  "generated_at": "2026-11-15T10:41:58.457Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2221,6 +2221,19 @@
       "path": "math/0622-why-constant-initialization-fails-symmetric-hidden-units-get-identical-gradients",
       "first_solved_at": "2026-11-15T10:35:47.343Z",
       "last_pushed_at": "2026-11-15T10:35:47.343Z"
+    },
+    "problem:289": {
+      "kind": "problem",
+      "id": "289",
+      "title": "Implement Xavier/Glorot Weight Initialization",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/289",
+      "path": "problems/0289-implement-xavier-glorot-weight-initialization",
+      "first_solved_at": "2026-11-15T10:41:57.904Z",
+      "last_pushed_at": "2026-11-15T10:41:57.904Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
