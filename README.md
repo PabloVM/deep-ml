@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**177** solved · 122 problems · 4 labs · 51 math
+**178** solved · 122 problems · 4 labs · 52 math
 
 ![Coverage](./coverage.svg)
 
@@ -183,6 +183,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Neural Network Derivatives](https://www.deep-ml.com/math-problems/3) | medium | 2026-11-04 | [solution](math/0003-neural-network-derivatives) |
 | [Optimization: Convexity and Critical Points](https://www.deep-ml.com/math-problems/6) | medium | 2026-10-27 | [solution](math/0006-optimization-convexity-and-critical-points) |
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-20 | [solution](math/0014-orthogonality-and-projections) |
+| [Perceptron Convergence Bound](https://www.deep-ml.com/math-problems/129) | medium | 2026-11-15 | [solution](math/0129-perceptron-convergence-bound) |
 | [Positive Definite Matrices and Quadratic Forms](https://www.deep-ml.com/math-problems/50) | medium | 2026-10-28 | [solution](math/0050-positive-definite-matrices-and-quadratic-forms) |
 | [Qualitative Predictors, Dummy Coding and Interactions](https://www.deep-ml.com/math-problems/105) | medium | 2026-11-02 | [solution](math/0105-qualitative-predictors-dummy-coding-and-interactions) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-28 | [solution](math/0031-regularization-and-generalization) |
