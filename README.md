@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**184** solved · 127 problems · 4 labs · 53 math
+**185** solved · 128 problems · 4 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -78,6 +78,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Beta Distribution PDF and Statistics](https://www.deep-ml.com/problems/339) | medium | 2026-11-03 | [solution](problems/0339-beta-distribution-pdf-and-statistics) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-10-29 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Calculate BIC/AIC for Model Selection](https://www.deep-ml.com/problems/368) | medium | 2026-10-29 | [solution](problems/0368-calculate-bic-aic-for-model-selection) |
+| [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/291) | medium | 2026-11-16 | [solution](problems/0291-calculate-number-of-parameters-in-neural-network) |
 | [Central Limit Theorem Simulation](https://www.deep-ml.com/problems/182) | medium | 2026-10-30 | [solution](problems/0182-central-limit-theorem-simulation) |
 | [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-10-20 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-10-28 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
