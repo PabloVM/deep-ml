@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**183** solved · 126 problems · 4 labs · 53 math
+**184** solved · 127 problems · 4 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -114,6 +114,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Lagrange Multipliers for Constrained Quadratic Optimization](https://www.deep-ml.com/problems/314) | medium | 2026-10-28 | [solution](problems/0314-lagrange-multipliers-for-constrained-quadratic-optimization) |
 | [Learning Curve Generator for Bias-Variance Diagnosis](https://www.deep-ml.com/problems/800) | medium | 2026-10-27 | [solution](problems/0800-learning-curve-generator-for-bias-variance-diagnosis) |
 | [Linear Regression - Power Grid Optimization](https://www.deep-ml.com/problems/92) | medium | 2026-10-20 | [solution](problems/0092-linear-regression-power-grid-optimization) |
+| [LSUV: Orthonormal Init plus Layer-Sequential Unit Variance](https://www.deep-ml.com/problems/1837) | medium | 2026-11-16 | [solution](problems/1837-lsuv-orthonormal-init-plus-layer-sequential-unit-variance) |
 | [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-10-21 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-11-02 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-20 | [solution](problems/0009-matrix-times-matrix) |
