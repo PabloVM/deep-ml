@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**197** solved · 139 problems · 5 labs · 53 math
+**198** solved · 140 problems · 5 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -109,6 +109,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Feature Hashing Trick for Sparse Features](https://www.deep-ml.com/problems/846) | medium | 2026-10-26 | [solution](problems/0846-feature-hashing-trick-for-sparse-features) |
 | [Forward Stepwise Selection Scored by Cp, AIC and BIC](https://www.deep-ml.com/problems/1415) | medium | 2026-10-29 | [solution](problems/1415-forward-stepwise-selection-scored-by-cp-aic-and-bic) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-10-21 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-11-17 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-10-26 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-20 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Grid Search](https://www.deep-ml.com/problems/288) | medium | 2026-10-29 | [solution](problems/0288-implement-grid-search) |
