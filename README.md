@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**199** solved · 141 problems · 5 labs · 53 math
+**200** solved · 142 problems · 5 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Backward Pass of Tanh Using Cached Output](https://www.deep-ml.com/problems/999) | easy | 2026-11-06 | [solution](problems/0999-backward-pass-of-tanh-using-cached-output) |
 | [Backward Pass of Tensor Reshape](https://www.deep-ml.com/problems/1000) | easy | 2026-11-09 | [solution](problems/1000-backward-pass-of-tensor-reshape) |
 | [Batch Iterator for Dataset](https://www.deep-ml.com/problems/30) | easy | 2026-10-22 | [solution](problems/0030-batch-iterator-for-dataset) |
+| [Build a Linear Regression Model with nn.Module](https://www.deep-ml.com/problems/885) | easy | 2026-11-17 | [solution](problems/0885-build-a-linear-regression-model-with-nn-module) |
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-10-20 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Mean Absolute Error (MAE)](https://www.deep-ml.com/problems/93) | easy | 2026-10-27 | [solution](problems/0093-calculate-mean-absolute-error-mae) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-11-16 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
