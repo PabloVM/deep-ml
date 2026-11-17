@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**210** solved · 152 problems · 5 labs · 53 math
+**211** solved · 153 problems · 5 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -110,6 +110,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Confidence Intervals versus Prediction Intervals](https://www.deep-ml.com/problems/1362) | medium | 2026-11-02 | [solution](problems/1362-confidence-intervals-versus-prediction-intervals) |
 | [Cross-Validated Lambda and the One-Standard-Error Rule](https://www.deep-ml.com/problems/1417) | medium | 2026-10-29 | [solution](problems/1417-cross-validated-lambda-and-the-one-standard-error-rule) |
 | [Cross-Validated Prediction with K-Fold Linear Regression](https://www.deep-ml.com/problems/839) | medium | 2026-10-27 | [solution](problems/0839-cross-validated-prediction-with-k-fold-linear-regression) |
+| [Custom Autograd Function: Swish Forward and Backward](https://www.deep-ml.com/problems/1399) | medium | 2026-11-17 | [solution](problems/1399-custom-autograd-function-swish-forward-and-backward) |
 | [Detect Look-Ahead Bias in a Feature Pipeline](https://www.deep-ml.com/problems/1352) | medium | 2026-10-27 | [solution](problems/1352-detect-look-ahead-bias-in-a-feature-pipeline) |
 | [Detect Target Leakage in a Feature Matrix](https://www.deep-ml.com/problems/1359) | medium | 2026-10-27 | [solution](problems/1359-detect-target-leakage-in-a-feature-matrix) |
 | [Dummy Classifier Baseline](https://www.deep-ml.com/problems/847) | medium | 2026-10-26 | [solution](problems/0847-dummy-classifier-baseline) |
