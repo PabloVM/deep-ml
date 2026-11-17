@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:34:58.307Z",
+  "generated_at": "2026-11-17T15:43:15.274Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2609,6 +2609,19 @@
       "path": "problems/1218-count-parameters-of-a-sequential-model",
       "first_solved_at": "2026-11-17T15:34:57.103Z",
       "last_pushed_at": "2026-11-17T15:34:57.103Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:903": {
+      "kind": "problem",
+      "id": "903",
+      "title": "Implement a Custom `autograd.Function`",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/903",
+      "path": "problems/0903-implement-a-custom-autograd-function",
+      "first_solved_at": "2026-11-17T15:43:14.467Z",
+      "last_pushed_at": "2026-11-17T15:43:14.467Z",
       "language": "python",
       "lines": 17
     }
