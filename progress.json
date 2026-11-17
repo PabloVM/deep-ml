@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T15:25:11.308Z",
+  "generated_at": "2026-11-17T15:31:36.174Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2585,6 +2585,19 @@
       "last_pushed_at": "2026-11-17T15:25:10.634Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:888": {
+      "kind": "problem",
+      "id": "888",
+      "title": "Save and Load Model Weights with state_dict",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/888",
+      "path": "problems/0888-save-and-load-model-weights-with-state-dict",
+      "first_solved_at": "2026-11-17T15:31:35.374Z",
+      "last_pushed_at": "2026-11-17T15:31:35.374Z",
+      "language": "python",
+      "lines": 12
     }
   }
 }
