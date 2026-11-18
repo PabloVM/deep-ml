@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:06:32.322Z",
+  "generated_at": "2026-11-18T11:14:18.366Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2661,6 +2661,17 @@
       "path": "math/0416-step-size-condition-number-and-the-zig-zag",
       "first_solved_at": "2026-11-18T10:06:30.242Z",
       "last_pushed_at": "2026-11-18T10:06:30.242Z"
+    },
+    "math:417": {
+      "kind": "math",
+      "id": "417",
+      "title": "Exact and Armijo Line Search",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/417",
+      "path": "math/0417-exact-and-armijo-line-search",
+      "first_solved_at": "2026-11-18T11:14:16.597Z",
+      "last_pushed_at": "2026-11-18T11:14:16.597Z"
     }
   }
 }
