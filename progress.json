@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:22:38.174Z",
+  "generated_at": "2026-11-18T14:29:34.221Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2683,6 +2683,19 @@
       "path": "math/0420-bfgs-the-secant-condition-and-a-rank-two-update",
       "first_solved_at": "2026-11-18T11:22:36.283Z",
       "last_pushed_at": "2026-11-18T11:22:36.283Z"
+    },
+    "problem:1780": {
+      "kind": "problem",
+      "id": "1780",
+      "title": "Steepest Descent with Exact and Armijo Line Search",
+      "difficulty": "medium",
+      "category": "Optimization",
+      "url": "https://www.deep-ml.com/problems/1780",
+      "path": "problems/1780-steepest-descent-with-exact-and-armijo-line-search",
+      "first_solved_at": "2026-11-18T14:29:33.336Z",
+      "last_pushed_at": "2026-11-18T14:29:33.336Z",
+      "language": "python",
+      "lines": 35
     }
   }
 }
