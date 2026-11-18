@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T11:14:18.366Z",
+  "generated_at": "2026-11-18T11:22:38.174Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2672,6 +2672,17 @@
       "path": "math/0417-exact-and-armijo-line-search",
       "first_solved_at": "2026-11-18T11:14:16.597Z",
       "last_pushed_at": "2026-11-18T11:14:16.597Z"
+    },
+    "math:420": {
+      "kind": "math",
+      "id": "420",
+      "title": "BFGS: the Secant Condition and a Rank-Two Update",
+      "difficulty": "hard",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/420",
+      "path": "math/0420-bfgs-the-secant-condition-and-a-rank-two-update",
+      "first_solved_at": "2026-11-18T11:22:36.283Z",
+      "last_pushed_at": "2026-11-18T11:22:36.283Z"
     }
   }
 }

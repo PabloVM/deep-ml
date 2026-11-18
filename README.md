@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**214** solved · 154 problems · 5 labs · 55 math
+**215** solved · 154 problems · 5 labs · 56 math
 
 ![Coverage](./coverage.svg)
 
@@ -231,6 +231,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-27 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [What Goes Wrong in High Dimensions](https://www.deep-ml.com/math-problems/109) | medium | 2026-10-28 | [solution](math/0109-what-goes-wrong-in-high-dimensions) |
 | [Bayesian Methods](https://www.deep-ml.com/math-problems/28) | hard | 2026-10-30 | [solution](math/0028-bayesian-methods) |
+| [BFGS: the Secant Condition and a Rank-Two Update](https://www.deep-ml.com/math-problems/420) | hard | 2026-11-18 | [solution](math/0420-bfgs-the-secant-condition-and-a-rank-two-update) |
 | [Interpolation and Double Descent](https://www.deep-ml.com/math-problems/118) | hard | 2026-10-28 | [solution](math/0118-interpolation-and-double-descent) |
 | [Matrix Decompositions: LU and QR](https://www.deep-ml.com/math-problems/15) | hard | 2026-10-21 | [solution](math/0015-matrix-decompositions-lu-and-qr) |
 | [Maximum Likelihood and MAP](https://www.deep-ml.com/math-problems/26) | hard | 2026-10-28 | [solution](math/0026-maximum-likelihood-and-map) |
