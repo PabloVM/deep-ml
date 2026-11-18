@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T16:04:18.509Z",
+  "generated_at": "2026-11-18T09:52:12.972Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2637,6 +2637,19 @@
       "last_pushed_at": "2026-11-17T16:04:16.690Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:889": {
+      "kind": "problem",
+      "id": "889",
+      "title": "Create a Float Tensor with Tinygrad",
+      "difficulty": "easy",
+      "category": "Tinygrad",
+      "url": "https://www.deep-ml.com/problems/889",
+      "path": "problems/0889-create-a-float-tensor-with-tinygrad",
+      "first_solved_at": "2026-11-18T09:52:11.215Z",
+      "last_pushed_at": "2026-11-18T09:52:11.215Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }

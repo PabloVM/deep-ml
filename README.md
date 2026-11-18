@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**211** solved · 153 problems · 5 labs · 53 math
+**212** solved · 154 problems · 5 labs · 53 math
 
 ![Coverage](./coverage.svg)
 
@@ -31,6 +31,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Posterior Probability using Bayes' Theorem](https://www.deep-ml.com/problems/336) | easy | 2026-11-03 | [solution](problems/0336-compute-posterior-probability-using-bayes-theorem) |
 | [Count Parameters of a Sequential Model](https://www.deep-ml.com/problems/1218) | easy | 2026-11-17 | [solution](problems/1218-count-parameters-of-a-sequential-model) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-11-17 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
+| [Create a Float Tensor with Tinygrad](https://www.deep-ml.com/problems/889) | easy | 2026-11-18 | [solution](problems/0889-create-a-float-tensor-with-tinygrad) |
 | [Create and Inspect a Tensor](https://www.deep-ml.com/problems/1220) | easy | 2026-11-17 | [solution](problems/1220-create-and-inspect-a-tensor) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-20 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Derivatives of Activation Functions](https://www.deep-ml.com/problems/217) | easy | 2026-11-04 | [solution](problems/0217-derivatives-of-activation-functions) |
