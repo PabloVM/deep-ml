@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**217** solved · 156 problems · 5 labs · 56 math
+**218** solved · 156 problems · 5 labs · 57 math
 
 ![Coverage](./coverage.svg)
 
@@ -204,6 +204,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Coefficient Standard Errors, t-Statistics, and p-Values](https://www.deep-ml.com/math-problems/75) | medium | 2026-10-30 | [solution](math/0075-coefficient-standard-errors-t-statistics-and-p-values) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-10-29 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Confidence Intervals vs Prediction Intervals](https://www.deep-ml.com/math-problems/77) | medium | 2026-10-30 | [solution](math/0077-confidence-intervals-vs-prediction-intervals) |
+| [Convolution Arithmetic and Parameter Sharing](https://www.deep-ml.com/math-problems/116) | medium | 2026-11-19 | [solution](math/0116-convolution-arithmetic-and-parameter-sharing) |
 | [Credible Intervals vs Confidence Intervals](https://www.deep-ml.com/math-problems/89) | medium | 2026-11-03 | [solution](math/0089-credible-intervals-vs-confidence-intervals) |
 | [Exact and Armijo Line Search](https://www.deep-ml.com/math-problems/417) | medium | 2026-11-18 | [solution](math/0417-exact-and-armijo-line-search) |
 | [Forward Mode versus Reverse Mode: What a Jacobian Costs](https://www.deep-ml.com/math-problems/470) | medium | 2026-11-04 | [solution](math/0470-forward-mode-versus-reverse-mode-what-a-jacobian-costs) |
