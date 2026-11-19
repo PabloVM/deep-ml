@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T16:11:24.140Z",
+  "generated_at": "2026-11-19T16:31:35.460Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2731,6 +2731,17 @@
       "path": "math/0478-transposed-convolution-is-the-transpose-of-the-convolution-matrix",
       "first_solved_at": "2026-11-19T16:11:23.415Z",
       "last_pushed_at": "2026-11-19T16:11:23.415Z"
+    },
+    "math:155": {
+      "kind": "math",
+      "id": "155",
+      "title": "The Fourier Transform and the Convolution Theorem",
+      "difficulty": "medium",
+      "category": "Deep Learning Theory",
+      "url": "https://www.deep-ml.com/math-problems/155",
+      "path": "math/0155-the-fourier-transform-and-the-convolution-theorem",
+      "first_solved_at": "2026-11-19T16:31:33.730Z",
+      "last_pushed_at": "2026-11-19T16:31:33.730Z"
     }
   }
 }
