@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**218** solved · 156 problems · 5 labs · 57 math
+**219** solved · 156 problems · 5 labs · 58 math
 
 ![Coverage](./coverage.svg)
 
@@ -230,6 +230,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-11-03 | [solution](math/0027-statistical-inference) |
 | [Step Size, Condition Number and the Zig-Zag](https://www.deep-ml.com/math-problems/416) | medium | 2026-11-18 | [solution](math/0416-step-size-condition-number-and-the-zig-zag) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-10-22 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
+| [Transposed Convolution Is the Transpose of the Convolution Matrix](https://www.deep-ml.com/math-problems/478) | medium | 2026-11-19 | [solution](math/0478-transposed-convolution-is-the-transpose-of-the-convolution-matrix) |
 | [Variance Preservation and He/Glorot Scaling](https://www.deep-ml.com/math-problems/131) | medium | 2026-11-09 | [solution](math/0131-variance-preservation-and-he-glorot-scaling) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-27 | [solution](math/0008-vector-norms-and-linear-independence) |
 | [What Goes Wrong in High Dimensions](https://www.deep-ml.com/math-problems/109) | medium | 2026-10-28 | [solution](math/0109-what-goes-wrong-in-high-dimensions) |

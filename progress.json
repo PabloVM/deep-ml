@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T15:33:44.195Z",
+  "generated_at": "2026-11-19T16:11:24.140Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -2720,6 +2720,17 @@
       "path": "math/0116-convolution-arithmetic-and-parameter-sharing",
       "first_solved_at": "2026-11-19T15:33:43.475Z",
       "last_pushed_at": "2026-11-19T15:33:43.475Z"
+    },
+    "math:478": {
+      "kind": "math",
+      "id": "478",
+      "title": "Transposed Convolution Is the Transpose of the Convolution Matrix",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/478",
+      "path": "math/0478-transposed-convolution-is-the-transpose-of-the-convolution-matrix",
+      "first_solved_at": "2026-11-19T16:11:23.415Z",
+      "last_pushed_at": "2026-11-19T16:11:23.415Z"
     }
   }
 }
