@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**216** solved · 155 problems · 5 labs · 56 math
+**217** solved · 156 problems · 5 labs · 56 math
 
 ![Coverage](./coverage.svg)
 
@@ -162,6 +162,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Stochastic Gradient Descent Step for Linear Regression](https://www.deep-ml.com/problems/802) | medium | 2026-10-20 | [solution](problems/0802-stochastic-gradient-descent-step-for-linear-regression) |
 | [Two-Layer MLP Forward Pass](https://www.deep-ml.com/problems/1225) | medium | 2026-11-17 | [solution](problems/1225-two-layer-mlp-forward-pass) |
 | [Coefficient Standard Errors, t-Statistics and p-Values](https://www.deep-ml.com/problems/1360) | hard | 2026-11-02 | [solution](problems/1360-coefficient-standard-errors-t-statistics-and-p-values) |
+| [Damped Newton and Trust-Region Steps](https://www.deep-ml.com/problems/1782) | hard | 2026-11-19 | [solution](problems/1782-damped-newton-and-trust-region-steps) |
 | [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-10-21 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 | [Implementing a Custom Dense Layer in Python](https://www.deep-ml.com/problems/40) | hard | 2026-11-05 | [solution](problems/0040-implementing-a-custom-dense-layer-in-python) |
 | [Leverage, Studentized Residuals and Cook's Distance](https://www.deep-ml.com/problems/1363) | hard | 2026-11-02 | [solution](problems/1363-leverage-studentized-residuals-and-cook-s-distance) |
